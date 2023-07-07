@@ -13,5 +13,5 @@ Buy Coffee :
 
 # How To Use?
 
-<li>Install Python 2.7 <a href="https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi">Download Here</a></li>
+<li>Check <a href="https://www.blog-gan.org/p/tools-google-api-indexing.html">Here</a></li>
 <li>python file.py</li>
