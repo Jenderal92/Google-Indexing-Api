@@ -39,7 +39,7 @@ RESET = '\033[0m'
 
 def Single_Post():
 	file_path = raw_input("\nMasukkan path file JSON \033[36m(contoh: blog.json) ~#$ \033[0m")
-	url_kamu = raw_input("\nMasukkan Url \033[36m(contoh: https://www.blog-gan.org/2023/06/Mengenal-Remote-Desktop-Connection-Penggunaan-dan-Fungsi-Utamanya.html) ~#$ \033[0m")
+	url_kamu = raw_input("\nMasukkan Url \033[36m(contoh: https://www.blog-gan.org/2023/07/cara-menggunakan-google-indexing-api.html) ~#$ \033[0m")
 	credentials = None
 	with open(file_path) as f:
 		credentials = json.load(f)
