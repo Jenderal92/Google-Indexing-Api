@@ -5,8 +5,7 @@
 #My Friendo : JametKNTLS -  h0d3_g4n - Moslem And All Coders
 # Blog : https://www.blog-gan.org          
 #Buy coffee :
-	# BTC = 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1
-	# PERFECT MONEY  = U22270614
+	# BTC = 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC
 	# SAWERIA : https://saweria.co/Shin403
 	# TRAKTEER : https://trakteer.id/shin403
 #CONTACT ME :(
